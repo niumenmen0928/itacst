@@ -1,0 +1,24 @@
+.el-alert {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.el-steps {
+    margin-bottom: 20px;
+}
+
+.el-step__title {
+    font-size: 12px;
+}
+
+div#pane-4 {
+    height: 500px;
+}
+
+.quill-editor {
+    height: 300px;
+}
+
+.el-button {
+    margin: 15px 0;
+}
